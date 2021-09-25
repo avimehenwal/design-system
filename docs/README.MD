@@ -44,7 +44,7 @@ Component -> Page Layout -> Interaction Model
 - system theme, dark and light mode
 - Adjust padding based on screen resolution size
 
-### [primer/css - github's css system](https://github.com/primer/css)
+### 1. [primer/css - github's css system](https://github.com/primer/css)
 
 - uses [SCSS](https://sass-lang.com/documentation/syntax#scss) css pre-processor
 
@@ -55,6 +55,8 @@ Component -> Page Layout -> Interaction Model
 | marketting | usp, cta button, highlight, special offer    |
 
 - https://youtu.be/Hx02SaL_IH0
+
+### 2. [IBM carbon design system](https://www.carbondesignsystem.com/)
 
 ### Resources
 
