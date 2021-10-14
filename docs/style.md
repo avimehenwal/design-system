@@ -65,6 +65,10 @@ Emotion has two ways of generating style definitions:
 
 **Dynamically** where the style definition gets computed on the client.
 
+[CSS-in-JS (like emotion), generates className on every unique style.](https://stackoverflow.com/questions/62161888/using-emotion-new-style-is-getting-outputted-in-the-head-every-time-compone)
+
+By frequently using a dynamic value like in your case, you will overflow your memory with such styles.
+
 ### Notes
 
 - Performance test css frameworks?
@@ -101,6 +105,10 @@ Plain old CSS. No libs. No builds
 - Feature toggle provider pattern
 - How to inject responsive layout styles into components itself?
 - change theme automatically based on the time of the day, and color theme of system
+
+## CSS Parsers
+
+- http://glazman.org/JSCSSP/
 
 ## References
 

@@ -1,0 +1,7 @@
+../
+design-system/
+| .git/
+| docs/
+| .DS_Store
+| LICENSE
+| README.md
